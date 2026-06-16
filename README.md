@@ -91,6 +91,19 @@ This project was completed as part of the **Data Analytics Training Program at E
 
 ## 👤 Author
 
+<img width="1453" height="827" alt="Screenshot 2026-06-16 203332" src="https://github.com/user-attachments/assets/0a78240f-564f-47bd-802b-2b60ccc4db89" />
+
+<img width="1372" height="802" alt="Screenshot 2026-06-16 203313" src="https://github.com/user-attachments/assets/13467a03-00ea-4082-a462-bdf6d82d4ca9" />
+
+<img width="1333" height="789" alt="Screenshot 2026-06-16 203257" src="https://github.com/user-attachments/assets/3ff59a17-78bd-4fed-a258-a81df3fc564b" />
+
+<img width="965" height="654" alt="Screenshot 2026-06-06 162046" src="https://github.com/user-attachments/assets/bb7b46cf-78be-488d-b8fc-5a0810439c65" />
+
+<img width="1372" height="802" alt="Screenshot 2026-06-16 203313" src="https://github.com/user-attachments/assets/b45382cc-5681-4225-aa23-b5956ac48384" />
+<img width="1776" height="737" alt="Screenshot 2026-06-16 203352" src="https://github.com/user-attachments/assets/d94796a2-3de7-4cb6-a641-6392d8241523" />
+
+<img width="1828" height="594" alt="Screenshot 2026-06-16 203411" src="https://github.com/user-attachments/assets/b56b1a92-4f0c-469a-af54-aa423992ce60" />
+
 **Mohammad Muzammil Shabuddin**
 Data Analyst | B.Com Graduate | Akola, Maharashtra
 [LinkedIn](https://linkedin.com/in/muzammil-chawhan-a0b971318) | chauhanmuzammil533@gmail.com
